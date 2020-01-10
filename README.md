@@ -1,4 +1,4 @@
-# Asteriods-
+# Asteriods
 A game worked on with Nolan Minar for his Solo Project at Prime Academy
 
 # Prime Project
